@@ -1,2 +1,2 @@
 # Git-e-GitHub
-Curso de Git e Github do Alura
+Curso de Git e Github da Alura
